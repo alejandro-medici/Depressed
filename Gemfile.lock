@@ -60,7 +60,7 @@ GEM
       unf (>= 0.0.5, < 1.0.0)
     dotenv (2.7.6)
     escape (0.0.4)
-    excon (0.91.0)
+    excon (0.92.0)
     faraday (0.17.5)
       multipart-post (>= 1.2, < 3)
     faraday-cookie_jar (0.0.7)
@@ -267,7 +267,7 @@ GEM
     uber (0.0.15)
     unf (0.1.4)
       unf_ext
-    unf_ext (0.0.8)
+    unf_ext (0.0.8.1)
     xcinvoke (0.2.1)
       liferaft (~> 0.0.4)
     xcodeproj (0.28.2)
@@ -278,7 +278,6 @@ GEM
       rouge (~> 1.8)
     xcpretty-travis-formatter (1.0.1)
       xcpretty (~> 0.2, >= 0.0.7)
-    zeitwerk (2.4.2)
 
 PLATFORMS
   ruby
